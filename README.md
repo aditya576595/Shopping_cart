@@ -7,8 +7,8 @@ Download the content then place the content inside folder Shopping_Cart
 
 Then Inside Terminal follow the following Commands :
 
-cd Shopping_Cart
-npm install
+cd Shopping_Cart ,
+npm install ,
 npm run start
 
 Then Open the following Link in browser :
